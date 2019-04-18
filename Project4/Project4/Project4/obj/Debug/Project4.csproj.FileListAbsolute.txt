@@ -1,0 +1,15 @@
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.csproj.ResolveComReference.cache
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\Chase Rutledge\Desktop\chase stuff\C Sharp (Spring 2019)\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
