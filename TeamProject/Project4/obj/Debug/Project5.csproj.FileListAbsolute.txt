@@ -41,3 +41,26 @@ C:\Users\c1002507\Downloads\TeamProject\TeamProject\Project4\obj\Debug\Project5.
 C:\Users\c1002507\Downloads\TeamProject\TeamProject\Project4\obj\Debug\Project5.Video.resources
 C:\Users\c1002507\Downloads\TeamProject\TeamProject\Project4\obj\Debug\Project5.Warning.resources
 C:\Users\c1002507\Downloads\TeamProject\TeamProject\Project4\obj\Debug\Project5.csproj.GenerateResource.Cache
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.csprojAssemblyReference.cache
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.WMLSS.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.csproj.ResolveComReference.cache
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project4.exe
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project4.pdb
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\bin\Debug\Project4.exe.config
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\bin\Debug\Project4.exe
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\bin\Debug\Project4.pdb
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.Video.resources
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.Profile.resources
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.ShufflePlayer.resources
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.Warning.resources
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.csproj.GenerateResource.cache
+C:\Users\Chase Rutledge\Downloads\Video-Grab-master\Video-Grab-master\TeamProject\Project4\obj\Debug\Project5.csproj.CoreCompileInputs.cache
