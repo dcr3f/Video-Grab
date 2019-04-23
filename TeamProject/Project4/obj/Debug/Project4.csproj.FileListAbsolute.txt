@@ -1,0 +1,46 @@
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.Profile.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.Video.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\obj\Debug\Project4.Warning.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.Profile.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.Video.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.Warning.resources
+C:\Users\c1002507\Documents\MTSU\cs3037 Visual\Project4\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project5.Profile.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project5.ShufflePlayer.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project5.Video.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project5.Warning.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project5.Form1.resources
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.WMLSS.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.csproj.ResolveComReference.cache
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Wilsons\Downloads\Video-Grab-Ryan\Video-Grab-Ryan\Project4\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
