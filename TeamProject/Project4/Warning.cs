@@ -20,7 +20,7 @@ namespace Project5
         private void btnAccept_Click(object sender, EventArgs e)
         {
             // open next dialog
-            Video vForm = new Video();
+            ShufflePlayer vForm = new ShufflePlayer();
             this.Hide();
             vForm.ShowDialog();
             this.Close();
